@@ -6,8 +6,7 @@ public class Main {
        parete tes=new parete();
        Trepelet trepelet =new Trepelet();
        Hamming hamming=new Hamming();
-       //hamming._main();
-       trepelet._main();
-       //tes._main();
+       hamming._main();
+       
     }
 }
